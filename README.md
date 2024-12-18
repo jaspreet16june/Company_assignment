@@ -14,14 +14,14 @@ CRUD APIs: Expose CRUD operations for both users and companies.
 
 Installation::
 1. Clone the repository:
-   git clone https://github.com/yourusername/django-company-user-app.git
+   git clone: https://github.com/jaspreet16june/Company_assignment.git
    cd Company_assignment
 
-2. Create a virtual environment:
-   Virtualenv venv
+3. Create a virtual environment:
+   virtualenv venv
    source venv/bin/activate 
 
-3. Install dependencies:
+4. Install dependencies:
    pip install -r requirements.txt
 
 
